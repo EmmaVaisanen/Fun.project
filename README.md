@@ -1,2 +1,2 @@
-# Fun.project
-This project is used for educational purposes and may or may not turn in to something fun.
+#Funproject
+This repo is for school labs and other school related projects.
